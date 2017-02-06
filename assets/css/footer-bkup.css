@@ -1,0 +1,4 @@
+background-image: -moz-linear-gradient(top, rgba(transparent), rgba(transparent) 75%);
+		background-image: -webkit-linear-gradient(top, rgba(transparent), rgba(transparent) 75%);
+		background-image: -ms-linear-gradient(top, rgba(transparent), rgba(transparent) 75%);
+		background-image: linear-gradient(top, rgba(transparent), rgba(transparent) 75%);
